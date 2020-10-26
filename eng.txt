@@ -1,0 +1,10 @@
+nueva calaverita = "New Sugar Skull",
+ver galeria = "View Gallery",
+galeria en vr = "VR Gallery",
+sobre esta app = "About this App",
+boton de regresar = "BACK"
+Nombre Tag = "Name",
+Nombre Hint = "Ex. Sofia",
+Ciudad Tag = "City",
+Ciudad Hint = "Ex. San Miguel de Allende",
+Publicar Boton = "Publish"
