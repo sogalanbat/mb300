@@ -1,0 +1,10 @@
+nueva calaverita = "Nueva Calaverita",
+ver galeria = "Ver Galeria",
+galeria en vr = "Galeria en VR",
+sobre esta app = "Sobre esta App",
+boton de regresar = "Regresar"
+Nombre Tag = "Nombre",
+Nombre Hint = "Ej. Sofia",
+Ciudad Tag = "Ciudad",
+Ciudad Hint = "Ej. San Miguel de Allende",
+Publicar Boton = "Publicar"
